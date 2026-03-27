@@ -1,0 +1,126 @@
+{
+  "sun": [
+    {
+      "timestamp": 1773244859.0026422,
+      "last_update": 1773244859.0026422,
+      "session": "3020422",
+      "prediction": "Tài",
+      "confidence": 0.78,
+      "actual": null,
+      "correct": null,
+      "counted": false
+    },
+    {
+      "timestamp": 1773245379.437277,
+      "last_update": 1773245437.4948099,
+      "session": "3020430",
+      "prediction": "Xỉu",
+      "confidence": 0.72,
+      "actual": "Xỉu",
+      "correct": true,
+      "counted": true
+    },
+    {
+      "timestamp": 1773245437.4962077,
+      "last_update": 1773245437.496208,
+      "session": "3020431",
+      "prediction": "Tài",
+      "confidence": 0.72,
+      "actual": null,
+      "correct": null,
+      "counted": false
+    },
+    {
+      "timestamp": 1773245643.7156067,
+      "last_update": 1773245647.4412134,
+      "session": "3020433",
+      "prediction": "Tài",
+      "confidence": 0.72,
+      "actual": "Tài",
+      "correct": true,
+      "counted": true
+    },
+    {
+      "timestamp": 1773245647.4449902,
+      "last_update": 1773245647.4449904,
+      "session": "3020434",
+      "prediction": "Tài",
+      "confidence": 0.72,
+      "actual": null,
+      "correct": null,
+      "counted": false
+    },
+    {
+      "timestamp": 1773245810.6467774,
+      "last_update": 1773245810.6467776,
+      "session": "3020436",
+      "prediction": "Tài",
+      "confidence": 0.72,
+      "actual": null,
+      "correct": null,
+      "counted": false
+    }
+  ],
+  "hit": [
+    {
+      "timestamp": 1773245671.971541,
+      "last_update": 1773245671.971541,
+      "session": "2358944",
+      "prediction": "Tài",
+      "confidence": 0.721,
+      "actual": null,
+      "correct": null,
+      "counted": false
+    },
+    {
+      "timestamp": 1773245814.632851,
+      "last_update": 1773245814.6328514,
+      "session": "2358946",
+      "prediction": "Tài",
+      "confidence": 0.579,
+      "actual": null,
+      "correct": null,
+      "counted": false
+    }
+  ],
+  "sum": [],
+  "b52": [],
+  "luck8": [],
+  "sicbo": [
+    {
+      "timestamp": 1773245459.549259,
+      "last_update": 1773245465.8882918,
+      "session": "2458117",
+      "prediction": "Tài",
+      "confidence": 0.75,
+      "actual": "Tài",
+      "correct": true,
+      "counted": true
+    },
+    {
+      "timestamp": 1773245465.8907623,
+      "last_update": 1773245465.8907628,
+      "session": "2458118",
+      "prediction": "Xỉu",
+      "confidence": 0.75,
+      "actual": null,
+      "correct": null,
+      "counted": false
+    },
+    {
+      "timestamp": 1773245817.0049589,
+      "last_update": 1773245817.0049596,
+      "session": "2458123",
+      "prediction": "Xỉu",
+      "confidence": 0.75,
+      "actual": null,
+      "correct": null,
+      "counted": false
+    }
+  ],
+  "789": [],
+  "68gb": [],
+  "lc79": [],
+  "sexy": [],
+  "last_update": 1773245817.0050712
+}
